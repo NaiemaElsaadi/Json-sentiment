@@ -53,10 +53,11 @@ Before running the project, ensure you have the following prerequisites:
 
 ## Getting Started
 
-- Before we begin, make sure you have the necessary dependencies installed in your Python environment. If you haven't already, you'll need to install spaCy and spaCy NLP  using the following command:
-`python -m pip install requests`
-`python -m pip install spacy`
-`python -m pip install spacytextblob`
+- Before we begin, make sure you have the necessary dependencies installed in your Python environment. 
+- If you haven't already, you'll need to install spaCy and spaCy NLP  using the following command:
+<br>`python -m pip install requests`
+<br>`python -m pip install spacy`
+<br>`python -m pip install spacytextblob`
 - Install them into our active virtual environment.
 - Use an import statement in our Python. 
 - Spelling and capitalization matters 
@@ -73,8 +74,8 @@ Before running the project, ensure you have the following prerequisites:
 ## Before we start 
 
 ` Create and activate a Python virtual environment. `
-` Address any errors you get running this code cell by installing the necessary packages into your active Python environment.`
-` Before starting the project, try all these imports FIRST`
+<br>` Address any errors you get running this code cell by installing the necessary packages into your active Python environment.`
+<br>` Before starting the project, try all these imports FIRST`
 <br>import json
 <br>import pickle
 <br>import requests
@@ -126,9 +127,11 @@ jupyter lab
 
 The source of the repository for this project is available at:[GitHub Repository]( https://github.com/wmnlp-materials/json-sentiment)
 
+
 ## Contact
 
-For any questions, feedback, or inquiries, you can reach me out to the my Github Repository [GitHub Repository](https://github.com/NaiemaElsaadi/Json-sentiment)
+For any questions, feedback, or inquiries, you can reach out to me via  [My GitHub Repository](https://github.com/NaiemaElsaadi/Json-sentiment)
+
 
 ## Acknowledgments
 
@@ -137,11 +140,11 @@ Special thanks to the Web Mining and Applied NLP (44-620) course instructor Dr. 
 ## Reference
 
 https://spacy.io/
-https://spacy.io/usage/spacy-101
-https://spacy.io/usage
-https://pypi.org/project/lyricsgenius/
-https://github.com/public-apis/public-apis
-https://lyricsovh.docs.apiary.io/#reference/0/lyrics-of-a-song/search?console=1
+<br>https://spacy.io/usage/spacy-101
+<br>https://spacy.io/usage
+<br>https://pypi.org/project/lyricsgenius/
+<br>https://github.com/public-apis/public-apis
+<br>https://lyricsovh.docs.apiary.io/#reference/0/lyrics-of-a-song/search?console=1
 
 
 
